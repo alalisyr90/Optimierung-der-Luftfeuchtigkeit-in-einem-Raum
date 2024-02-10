@@ -4,7 +4,7 @@ A System that consists of a BME260 humidty Sensor and an Oled Display mounted on
 depending on the humidty value, the system chooses whether to increase or decrease humidity using a humidifier or dehumidifier.
 
 
-![Layout](https://github.com/alalisyr90/Optimierung-der-Luftfeuchtigkeit-in-einem-Raum.git/BME260Oled.jpeg)
+![Layout](https://github.com/alalisyr90/Optimierung-der-Luftfeuchtigkeit-in-einem-Raum/blob/main/BME260Oled.jpeg)
 
 # Example 
 
